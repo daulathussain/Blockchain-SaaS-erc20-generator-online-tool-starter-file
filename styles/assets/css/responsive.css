@@ -1,0 +1,1104 @@
+@media (min-width: 1919px) {
+    .container,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl {
+        max-width: 1260px;
+    }
+    .header-right {
+        margin-left: 30px;
+    }
+    .header-area.stick .header-right {
+        margin-left: 30px;
+    }
+    .menu-bg:before {
+        right: -326px;
+        width: 500px;
+    }
+}
+
+@media (min-width: 1290px) and (max-width: 1500px) {
+    .container,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl {
+        max-width: 1260px;
+    }
+}
+
+/* Normal desktop :1200px. */
+
+@media (min-width: 1200px) and (max-width: 1290px) {}
+
+/* Normal desktop :992px. */
+
+@media (min-width: 992px) and (max-width: 1200px) {
+    .header_menu ul li {
+        margin-left: 15px;
+    }
+    .header-area.stick .header-right,
+    .header-right {
+        margin-left: 25px;
+    }
+    .hd-btn {
+        padding: 0 15px;
+    }
+    .intro-area {
+        float: none;
+        width: 100%;
+        height: 100%;
+        min-height: 640px;
+    }
+    .bg-wrapper,
+    .bg-wrapper img {
+        width: 100%;
+        height: 100%;
+        min-height: 640px;
+        object-fit: cover;
+    }
+    .intro-content {
+        margin-top: -180px;
+    }
+    .title-2 {
+        font-size: 54px;
+        line-height: 64px;
+    }
+    .slide-all-text {
+        margin-top: 0px;
+    }
+    .well-services {
+        padding: 30px 15px;
+    }
+    .left-headline h2 {
+        font-size: 34px;
+        line-height: 44px;
+        width: auto;
+    }
+    .about-all {
+        margin-left: 0px;
+    }
+    .left-headline {
+        margin-right: 0px;
+    }
+    .single-service {
+        padding: 30px 20px;
+    }
+    .token-sale {
+        margin-right: 0px;
+    }
+    .blog-content {
+        padding: 30px 20px;
+    }
+    .subs-form {
+        padding: 0px 60px 40px;
+    }
+    .feature-inner {
+        margin-top: 0px;
+    }
+    .support-content p {
+        font-size: 15px;
+    }
+    .right-side {
+        padding-left: 0px;
+    }
+    .left-blog-page {
+        padding: 20px 15px;
+    }
+    .blog-search-option input {
+        width: 78%;
+    }
+    .token-sale-wrapper {
+        margin-right: 0px;
+    }
+    .token-sale-inner {
+        padding: 10px;
+    }
+    .token-sale-inner .token-day {
+        font-size: 11px;
+    }
+    .paper-icon {
+        font-size: 28px;
+        color: #27ABFE;
+        background: transparent;
+        margin-right: 10px;
+    }
+    .contact-head {
+        margin-right: 0px;
+    }
+    .company-faq-left {
+        margin: 0px 30px;
+    }
+    .single-member .team-img {
+        width: 140px;
+        height: 140px;
+    }
+    .single-member {
+        padding: 30px 10px;
+    }
+    .team-hover li a {
+        margin: 0px;
+        width: 32px;
+        height: 32px;
+    }
+    .menu-bg:before {
+        right: -6px;
+    }
+    .menu-bg:after {
+        background-size: contain;
+    }
+    .header_menu ul li a {
+        padding: 35px 0;
+    }
+    .header-right {
+        padding: 23px 0px;
+    }
+    .achivement-content {
+        padding: 30px 30px;
+        top: 0px;
+        margin: 0 0px 40px;
+    }
+    .achive-number {
+        font-size: 21px;
+    }
+    .token-sale-inner .token-day {
+        padding: 3px 10px;
+    }
+    .stack-time h3 {
+        font-size: 24px;
+    }
+    .plan-money ul li a {
+        font-size: 15px;
+    }
+    .section-bg-headline {
+        margin-right: 0px;
+    }
+    .services-title h2 {
+        font-size: 40px;
+        line-height: 46px;
+    }
+    .token-sale-inner .single-count span {
+        font-size: 18px;
+        width: 57px;
+        line-height: 57px !important;
+    }
+    .single-count {
+        font-size: 13px;
+    }
+    .left-headline h2 {
+        font-size: 44px;
+        line-height: 54px;
+        width: auto;
+    }
+    .token-ico-inner {
+        margin-right: 30px;
+    }
+    .price-box-inner {
+        margin-bottom: 30px;
+    }
+    .well-service-text {
+        margin-left: 0px;
+    }
+    .main-title {
+        font-size: 48px;
+        line-height: 56px;
+    }
+    .money-send {
+        margin: 0px 0px 0px 20px;
+        position: relative;
+        z-index: 1;
+    }
+    .grid-blog .image-scale {
+        float: none;
+        width: 100%;
+    }
+    .grid-blog .blog-content {
+        width: 100%;
+        float: none;
+        padding: 0px 10px;
+        margin-top: 20px;
+    }
+    .blog-search-option input {
+        width: 72%;
+    }
+    .bread-bg {
+        padding: 90px 50px;
+    }
+    .login-form {
+        padding: 40px 50px;
+        margin: 0px 20px;
+    }
+    .dashboard-side {
+        margin-right: 0px;
+    }
+    .user-btn {
+        font-size: 16px;
+        padding: 10px 12px;
+        margin: 0px 5px;
+    }
+    .main-bal {
+        font-size: 24px;
+    }
+    .invest-tumb img {
+        width: 60px;
+        height: auto;
+    }
+    .pro-name {
+        font-size: 18px;
+        font-weight: 700;
+        display: block;
+    }
+    .pro-money {
+        font-size: 16px;
+        margin-top: 5px;
+    }
+    .dashboard-menu {
+        padding: 20px;
+    }
+}
+
+/* Tablet desktop :768px. */
+
+@media (min-width: 768px) and (max-width: 992px) {
+    .header-right {
+        margin-right: 80px;
+        padding: 15px 0px;
+    }
+    .mean-container a.meanmenu-reveal {
+        margin-top: -60px;
+    }
+    .mean-container .mean-nav {
+        margin-top: 0px;
+    }
+    .intro-area {
+        float: none;
+        width: 100%;
+        height: 100%;
+        min-height: 600px;
+    }
+    .ready-btn {
+        padding: 10px 15px;
+    }
+    .bg-wrapper,
+    .bg-wrapper img {
+        width: 100%;
+        height: 100%;
+        min-height: 600px;
+        object-fit: cover;
+    }
+    .title-1 {
+        font-size: 14px;
+        margin-bottom: 0px;
+        padding: 2px 10px;
+    }
+    .title-1 span {
+        font-size: 11px;
+        padding: 3px 6px;
+        margin-right: 5px;
+    }
+    .title-2 {
+        margin: 10px 0px 5px;
+    }
+    .slide-images {
+        margin-top: 20px;
+    }
+    .slide-images {
+        margin-top: 20px;
+    }
+    .intro-content {
+        margin-top: -180px;
+    }
+    .left-headline h2 {
+        font-size: 30px;
+        line-height: 40px;
+        width: auto;
+    }
+    .well-services {
+        padding: 10px 15px 15px;
+    }
+    .wel-content h4 {
+        font-size: 19px;
+        padding: 0 0 20px;
+    }
+    .about-all {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .left-headline {
+        margin-right: 0px;
+    }
+    .right-btn {
+        margin-right: 0px;
+    }
+    .app-btn {
+        padding: 10px 20px;
+        font-size: 17px;
+    }
+    .feature-images {
+        margin-top: 30px;
+    }
+    .subs-form {
+        padding: 0px 20px 50px;
+    }
+    .subs-form input#email {
+        width: 65%;
+    }
+    .subs-form button#submit {
+        width: 35%;
+    }
+    .feature-inner {
+        margin-top: 0px;
+    }
+    .login-form {
+        padding: 40px 40px;
+        margin: 0px 20px;
+    }
+    .right-side {
+        padding-left: 0px;
+    }
+    .left-blog-page {
+        padding: 20px 10px;
+    }
+    .blog-search-option input {
+        width: 70%;
+    }
+    .post-img {
+        display: none;
+    }
+    .pst-content {
+        padding-left: 0px;
+    }
+    .blog-post-wrapper .blog-content h3 {
+        font-size: 28px;
+        line-height: 36px;
+    }
+    .company-faq-left {
+        margin: 0;
+    }
+    .faq_inner .card-body {
+        padding: 0px 30px 20px 30px;
+    }
+    .btn-hover {
+        width: 130px;
+        font-size: 16px;
+        margin: 5px;
+        height: 50px;
+    }
+    .token-sale-wrapper {
+        margin-right: 0px;
+        margin-bottom: 40px;
+    }
+    .buy-btn {
+        font-size: 17px;
+    }
+    .subs-btn {
+        margin: 20px 0px 0px 0px;
+    }
+    .contact-head {
+        margin-right: 0px;
+        margin-bottom: 50px;
+    }
+    .single-member .team-img {
+        width: 144px;
+        height: 144px;
+    }
+    .team-hover li a {
+        margin: 0px 1px;
+        width: 32px;
+        height: 32px;
+    }
+    .header-area.stick .mean-container a.meanmenu-reveal {
+        margin-top: -65px;
+    }
+    .intro-2 .title-2 {
+        font-size: 50px;
+        line-height: 60px;
+        width: auto;
+    }
+    .achivement-content {
+        padding: 15px 15px;
+        top: 0px;
+        margin: 0 0px 40px;
+    }
+    .achive-number {
+        font-size: 18px;
+    }
+    .achivement-text h6 {
+        font-size: 11px;
+    }
+    .title-2 {
+        font-size: 36px;
+        line-height: 48px;
+    }
+    .about-text {
+        margin-top: 0px;
+    }
+    .about-content {
+        margin-bottom: 80px;
+        margin-right: 80px;
+        margin-left: 80px;
+    }
+    .money-send {
+        margin: 0;
+    }
+    .calculator-inner {
+        padding: 15px;
+    }
+    .calculator-inner .form-input {
+        width: 70%;
+    }
+    .money-send .calculator-inner .nice-select {
+        width: 30%;
+    }
+    .well-service-text {
+        margin-left: 0px;
+    }
+    .section-headline h2 {
+        font-size: 50px;
+        line-height: 60px;
+        width: auto;
+    }
+    .price-box-inner {
+        margin-bottom: 30px;
+        padding: 15px;
+    }
+    .token-sale-inner {
+        padding: 15px;
+    }
+    .token-sale-inner .single-count span {
+        font-size: 24px;
+        width: 65px;
+        line-height: 65px !important;
+    }
+    .top-text-title {
+        font-size: 18px;
+    }
+    .token-ico-inner {
+        margin-right: 10px;
+    }
+    .section-bg-headline {
+        margin-right: 0px;
+    }
+    .section-bg-headline h2 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .staking-inner {
+        padding: 20px;
+    }
+    .stack-time h3 {
+        font-size: 20px;
+    }
+    .stack-time ul li a {
+        font-size: 12px;
+        padding: 5px 10px;
+    }
+    .plan-money ul li a {
+        font-size: 13px;
+    }
+    .plan-money ul li a span {
+        margin: 0px 5px;
+    }
+    .stack-btn.coin-btn {
+        margin-left: 20px;
+        padding: 8px 10px;
+    }
+    .footer-list li a {
+        padding: 7px 0px 10px 15px;
+        font-size: 15px;
+    }
+    .footer-icons ul li a {
+        width: 32px;
+        height: 32px;
+    }
+    .intro-area-2 {
+        float: none;
+        width: 100%;
+        height: 100%;
+        min-height: 500px;
+    }
+    .intro-area-2 .bg-wrapper,
+    .intro-area-2 .bg-wrapper img {
+        width: 100%;
+        height: 100%;
+        min-height: 500px;
+        object-fit: cover;
+    }
+    .intro-area-2 .intro-content {
+        margin-top: -130px;
+    }
+    .single-brand-item {
+        width: 140px;
+        height: auto;
+    }
+    .bread-bg {
+        padding: 65px 40px;
+    }
+    .breadcrumb-title h2 {
+        font-size: 34px;
+        line-height: 40px;
+    }
+    .grid-blog .image-scale {
+        float: none;
+        width: 100%;
+    }
+    .grid-blog .blog-content {
+        width: 100%;
+        float: none;
+        padding: 0px 10px;
+        margin-top: 20px;
+    }
+    .table-inner {
+        min-width: 700px;
+    }
+    .form-text {
+        position: relative;
+        max-width: 100%;
+        overflow-x: auto;
+    }
+    .dashboard-side {
+        margin-right: 0px;
+    }
+    .user-btn {
+        font-size: 14px;
+        padding: 10px 8px;
+        margin: 0px 5px;
+    }
+    .main-bal {
+        font-size: 22px;
+    }
+    .user-top {
+        padding: 30px 20px;
+    }
+    .invest-tumb img {
+        width: 50px;
+        height: auto;
+    }
+    .pro-name {
+        font-size: 18px;
+        font-weight: 700;
+        display: block;
+    }
+    .pro-money {
+        font-size: 16px;
+        margin-top: 5px;
+    }
+    .dashboard-menu {
+        padding: 20px;
+    }
+    .area-padding {
+        padding: 100px 0px;
+    }
+    .area-padding-2 {
+        padding: 100px 70px;
+    }
+}
+
+/* small mobile :320px. */
+
+@media (max-width: 767px) {
+    .header-menu-area {
+        padding: 15px 0px;
+    }
+    .header-area.stick .logo a {
+        padding: 2px 0;
+    }
+    .intro-content {
+        margin-top: -280px;
+    }
+    .intro-bg {
+        display: none;
+    }
+    .title-1 span {
+        font-size: 10px;
+        padding: 3px 4px;
+        margin-right: 5px;
+    }
+    .intro-area {
+        float: none;
+        width: 100%;
+        height: 100%;
+        min-height: 800px;
+    }
+    .bg-wrapper,
+    .bg-wrapper img {
+        width: 100%;
+        height: 100%;
+        min-height: 800px;
+        object-fit: cover;
+    }
+    .ab-image {
+        padding-left: 0;
+    }
+    .flat-text {
+        font-size: 15px;
+        padding: 9px 15px;
+        width: auto;
+    }
+    .slide-all-text {
+        text-align: center;
+        margin-top: 0px;
+    }
+    .layer-1 {
+        margin-bottom: 15px;
+    }
+    .title-1 {
+        font-size: 13px;
+        margin-bottom: 0px;
+        padding: 2px 5px;
+    }
+    .title-2 {
+        font-size: 32px;
+        line-height: 42px;
+        margin-bottom: 5px;
+    }
+    .slide-images {
+        margin-top: 30px;
+        text-align: center;
+    }
+    .header-right {
+        display: none;
+    }
+    .header-area.stick .logo a {
+        padding: 2px 0;
+    }
+    .token-ico-inner {
+        margin-right: 0px;
+    }
+    .left-headline h2 {
+        font-size: 36px;
+        line-height: 46px;
+        width: auto;
+    }
+    .middle-howto {
+        margin: 30px 0px;
+    }
+    .section-headline p {
+        width: auto;
+    }
+    .section-headline h2 {
+        font-size: 36px;
+        line-height: 46px;
+        width: auto;
+    }
+    .left-headline h2,
+        {
+        font-size: 28px;
+        line-height: 40px;
+    }
+    .about-all {
+        margin-left: 0px;
+        margin-top: 40px;
+    }
+    .single-about {
+        margin-bottom: 0px;
+        margin-bottom: 20px;
+    }
+    .single-service {
+        padding: 40px 20px;
+    }
+    .token-sale {
+        margin-right: 0px;
+        margin-bottom: 40px;
+    }
+    .single-brand-item {
+        width: auto;
+        height: auto;
+    }
+    .feature-inner {
+        margin-top: 0px;
+    }
+    .app-btn {
+        font-size: 15px;
+    }
+    .app-btn::before {
+        left: 15px;
+        top: 10px;
+    }
+    .right-btn {
+        margin-right: 0px;
+    }
+    .feature-content {
+        margin-top: 40px;
+    }
+    .faq-tab li {
+        display: inline-block;
+        margin-bottom: 20px;
+    }
+    .company-faq-left {
+        margin: 0;
+    }
+    .faq_inner .card-body {
+        padding: 0px 30px 20px 20px;
+    }
+    .faq_inner .card-header h4 button {
+        padding: 12px 40px 12px 20px;
+    }
+    .footer-content {
+        display: block;
+        overflow: hidden;
+        margin-bottom: 40px;
+    }
+    .subscribe-inner {
+        padding: 80px 20px;
+        margin: 0px;
+        top: 80px;
+    }
+    .subs-form {
+        padding: 0px;
+        overflow: hidden;
+        margin-bottom: 40px;
+    }
+    .subs-form button#submit {
+        width: 100%;
+        margin-top: 15px;
+    }
+    .subs-form input#email {
+        width: 100%;
+        border-radius: 3px;
+    }
+    .left-headline {
+        margin-right: 0px;
+    }
+    .blog-content {
+        padding: 30px 20px;
+    }
+    .last-content {
+        margin-bottom: 0px;
+    }
+    .copyright {
+        text-align: center;
+    }
+    .footer-menu {
+        text-align: center;
+        margin-top: 10px;
+    }
+    .footer-menu ul li a {
+        padding: 0px 7px;
+    }
+    .mar-0 {
+        margin-bottom: 30px;
+    }
+    .breadcrumb-title h2 {
+        font-size: 32px;
+        line-height: 34px;
+    }
+    .login-form {
+        padding: 40px 20px;
+        margin: 0px;
+    }
+    .right-side {
+        padding-left: 0px;
+        padding-top: 40px;
+    }
+    .left-blog-page {
+        padding: 20px 15px;
+    }
+    .blog-search-option input {
+        width: 78%;
+    }
+    .post-img {
+        padding-right: 10px;
+    }
+    .pst-content {
+        padding-left: 95px;
+    }
+    .blog-details .blog-content h3 {
+        font-size: 24px;
+        line-height: 34px;
+    }
+    blockquote {
+        padding: 30px 20px 20px 50px;
+    }
+    blockquote::before {
+        top: 15px;
+        left: 10px;
+    }
+    .blog-post-wrapper .blog-content h4 {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .related-post-list .recent-single-post {
+        width: 100%;
+        float: none;
+        padding: 0px;
+    }
+    .post-img {
+        padding-right: 10px;
+    }
+    .related-post-list .recent-single-post:last-child {
+        padding: 0px;
+    }
+    .comments-details {
+        padding: 30px 10px;
+    }
+    .comments-content-wrap {
+        padding-left: 98px;
+    }
+    .comments-list-img {
+        margin-right: 15px;
+    }
+    .threaded-comments {
+        margin-left: 15px;
+    }
+    .pst-content p a {
+        font-size: 15px;
+    }
+    .btn-hover {
+        width: 130px;
+        font-size: 16px;
+        margin: 5px;
+        height: 50px;
+    }
+    .token-sale-wrapper {
+        margin-right: 0;
+        margin-top: 40px;
+    }
+    .token-sale-inner {
+        padding: 10px;
+    }
+    .token-sale-inner .single-count {
+        width: 23.5%;
+        margin: 0px 2px;
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .token-sale-inner .token-day {
+        font-size: 11px;
+        background: transparent;
+        padding: 0;
+    }
+    .token-sale-inner .token-progress {
+        height: 18px;
+        margin-bottom: 30px;
+    }
+    .buy-btn {
+        width: 170px;
+        font-size: 17px;
+        margin: 5px;
+        height: 50px;
+    }
+    .three-well {
+        margin-top: 0px;
+    }
+    .token-button .buy-btn {
+        width: 184px;
+        font-size: 17px;
+        margin: 5px;
+        height: 54px;
+    }
+    .left-token-ico h3 {
+        font-size: 24px;
+        line-height: 34px;
+    }
+    .single-paper {
+        width: 100%;
+        float: none;
+    }
+    .token-paper {
+        margin-right: 0px;
+    }
+    .subs-btn {
+        margin: 20px 0px 0px 0px;
+    }
+    .bread-pd {
+        padding: 130px 0px 0px;
+    }
+    .blog-single-tags .list-tag-title {
+        margin-bottom: 20px;
+    }
+    .contact-head {
+        padding: 30px 15px;
+        background: #150550;
+        margin-right: 0px;
+        margin-bottom: 40px;
+    }
+    .ready-btn {
+        padding: 12px 18px;
+    }
+    .single-wrapper::before {
+        left: auto;
+        top: 0;
+        right: 0;
+    }
+    .single-wrapper::after {
+        left: auto;
+        bottom: 0;
+        right: 0;
+    }
+    .single-member {
+        padding: 30px 15px;
+    }
+    .intro-2 .title-2 {
+        font-size: 34px;
+        line-height: 44px;
+        width: auto;
+        margin: 0 auto 15px;
+    }
+    .achivement-content {
+        padding: 20px;
+        top: -80px;
+        margin: 0;
+    }
+    .single-achive {
+        margin: 15px 0px;
+    }
+    .intro-2 .slide-all-text {
+        margin-top: 50px;
+    }
+    .money-send {
+        margin: 30px 0px 0px 0px;
+    }
+    .calculator-inner {
+        padding: 30px 15px;
+    }
+    .calculator-inner .form-input {
+        width: 68%;
+    }
+    .money-send .calculator-inner .nice-select {
+        width: 32%;
+    }
+    .dashboard-right-menus li .notification-area {
+        left: -70px;
+    }
+    .notifacation-header {
+        padding: 20px;
+    }
+    .swap-set ul li a {
+        padding: 5px 10px;
+    }
+    .swap-set ul li {
+        margin-right: 3px;
+    }
+    .notification-area {
+        width: 330px;
+    }
+    .swap-set {
+        display: block;
+        margin-bottom: 10px;
+    }
+    .notification-area.side-part {
+        width: 330px;
+        height: auto;
+    }
+    .dashboard-right-menus li .notification-area.side-part {
+        position: absolute;
+        left: -70px;
+    }
+    .well-service-text {
+        margin-left: 0px;
+        margin-top: 30px;
+    }
+    .main-title {
+        font-size: 36px;
+        line-height: 46px;
+    }
+    .top-text-title {
+        font-size: 20px;
+    }
+    .price-box-inner {
+        padding: 30px 15px 0px;
+        margin-bottom: 30px;
+    }
+    .section-bg-headline h2 {
+        font-size: 36px;
+        line-height: 46px;
+    }
+    .section-bg-headline {
+        margin-right: 0px;
+        margin-bottom: 30px;
+    }
+    .section-bg-btn {
+        float: left;
+        margin-bottom: 30px;
+    }
+    .staking-inner {
+        padding: 30px 20px;
+    }
+    .stack-time h3 {
+        font-size: 24px;
+    }
+    .stack-time ul li {
+        margin-right: 4px;
+    }
+    .stack-time ul li a {
+        padding: 5px 10px;
+    }
+    .staking-content {
+        margin-bottom: 30px;
+    }
+    .plan-money ul li a {
+        font-size: 14px;
+    }
+    .plan-money ul li a span {
+        margin: 0px 7px;
+    }
+    .stack-btn {
+        float: left;
+        margin-top: 20px;
+    }
+    .staking-inner::after {
+        background-position: left center;
+    }
+    .intro-area-2 .intro-content {
+        margin-top: -210px;
+    }
+    .intro-area-2 {
+        float: none;
+        width: 100%;
+        height: 100%;
+        min-height: 660px;
+    }
+    .intro-area-2 .bg-wrapper,
+    .intro-area-2 .bg-wrapper img {
+        width: 100%;
+        height: 100%;
+        min-height: 660px;
+        object-fit: cover;
+    }
+    .bread-bg {
+        padding: 20px 20px;
+    }
+    .table-inner {
+        min-width: 700px;
+    }
+    .form-text {
+        position: relative;
+        max-width: 100%;
+        overflow-x: auto;
+    }
+    .dashboard-side {
+        margin-right: 0px;
+    }
+    .user-top {
+        margin-top: 40px;
+        overflow: hidden;
+    }
+    .user-btn {
+        font-size: 16px;
+        padding: 10px 15px;
+        margin: 10px 10px 10px 0px;
+    }
+    .bread-bg {
+        background-size: contain;
+    }
+}
+
+@media only screen and (min-width: 360px) and (max-width: 480px) {
+    .title-2 {
+        font-size: 28px;
+        line-height: 38px;
+        margin-bottom: 10px;
+    }
+    .token-sale-inner .token-day {
+        font-size: 14px;
+    }
+    .token-sale-inner .token-day {
+        font-size: 14px;
+    }
+}
+
+/* Large Mobile :480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {}
