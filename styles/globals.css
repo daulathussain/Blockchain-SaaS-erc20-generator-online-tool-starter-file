@@ -1,0 +1,88 @@
+@import url("./assets/css/animate.min.css");
+@import url("./assets/css/bootstrap.css");
+@import url("./assets/css/bootstrap.min.css");
+@import url("./assets/css/flaticon.css");
+@import url("./assets/css/font-awesome.min.css");
+@import url("./assets/css/meanmenu.min.css");
+@import url("./assets/.css/nice-select.css");
+@import url("./assets/css/owl.carousel.min.css");
+@import url("./assets/css/owl.transitions.css");
+@import url("./assets/css/responsive.css");
+@import url("./assets/css/themify-icons.css");
+@import url("./assets/style.css");
+
+.new_margin{
+    margin-bottom: 8rem;
+}
+.new_flex{
+    display: flex;
+    gap: 2rem;
+}
+.new_text_size{
+    display: none;
+}
+.new_space{
+    padding-right: 1rem;
+}
+.new_profile_space{
+    padding-inline: 0.5rem;
+}
+.form-input{
+    color: white;
+}
+@media only screen and (max-width:600px){
+    .new_flex{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        gap: 1rem;
+    }
+    .new_text_size{
+        display: none;
+    }
+    .new_image_with{
+        width: 130px;
+        height: auto;
+    }
+    .new_grid_layout{
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+    .new_width{
+        width: 100%;
+    }
+    .title-2{
+        font-size: 2rem;
+        line-height: 1;
+    }
+    .login-form{
+        margin: 0px 0px;
+    }
+    .new-nav-class{
+        margin-left: 1rem;
+    }
+}
+@media only screen and (max-width:800px){
+    .new_text_size{
+        display: none;
+    }
+    .new_grid_layout{
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+    .new_width{
+        width: 100%;
+    }
+    .login-form{
+        margin: 0px 0px;
+    }
+    .new-nav-class{
+        margin-left: 1rem;
+    }
+}
+@media only screen and( max-width:525px){
+    .new-nav-class{
+        padding-right: 1rem;
+    }
+}
